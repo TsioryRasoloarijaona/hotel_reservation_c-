@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "tp4_part2_poo",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "tp4_part2_poo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tp4_part2_poo-Debug-10e8b7cf5f1ef0157486.json",
+					"name" : "tp4_part2_poo",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/tsiory/Documents/cours_1\u00e8_ann\u00e9e_ingenieur/c++_poo/tp4_part2_poo/cmake-build-debug",
+		"source" : "/home/tsiory/Documents/cours_1\u00e8_ann\u00e9e_ingenieur/c++_poo/tp4_part2_poo"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
